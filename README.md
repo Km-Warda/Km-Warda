@@ -20,6 +20,9 @@
   <a href="https://www.redhat.com" target="_blank" rel="noreferrer" title="RedHat">
     <img src="https://www.vectorlogo.zone/logos/redhat/redhat-icon.svg" alt="RedHat" width="40" height="40"/>
   </a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer" title="Git">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer" title="Docker">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
   </a>
@@ -40,9 +43,6 @@
   </a>
   <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer" title="Jenkins">
     <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer" title="Git">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   </a>
   <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer" title="GitLab">
     <img src="https://img.icons8.com/color/64/gitlab.png" alt="GitLab" width="40" height="40"/>
