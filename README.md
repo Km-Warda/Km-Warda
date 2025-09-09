@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mahmoud Sabra</h1>
+<h1 align="center">Karim Warda</h1>
 <h3 align="center"> DevOps Engineer  </h3>
 ###
 
@@ -36,10 +36,10 @@
 ###
 
 <div align="left">
-  <a href="mailto:muhamedamar290@gmail.com" target="_blank">
+  <a href="mailto:kmw4rda@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/m0hamedamar/" target="_blank">
+  <a href="https://www.linkedin.com/in/kmwarda/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
