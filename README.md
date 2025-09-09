@@ -9,7 +9,7 @@
 
 ###
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Tech Stack</h3>
 <p align="left"> 
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer" title="AWS">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
@@ -29,6 +29,9 @@
   <a href="https://www.terraform.io/" target="_blank" rel="noreferrer" title="Terraform">
     <img src="https://img.icons8.com/color/64/terraform.png" alt="Terraform" width="40" height="40"/>
   </a>
+  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer" title="Kubernetes">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/>
+  </a>
   <a href="https://www.nginx.com/" target="_blank" rel="noreferrer" title="Nginx">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40"/>
   </a>
@@ -38,10 +41,17 @@
   <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer" title="Jenkins">
     <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/>
   </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer" title="Git">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  </a>
   <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer" title="GitLab">
     <img src="https://img.icons8.com/color/64/gitlab.png" alt="GitLab" width="40" height="40"/>
   </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer" title="Bash">
+    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/>
+  </a>
 </p>
+
 
 
 ###
